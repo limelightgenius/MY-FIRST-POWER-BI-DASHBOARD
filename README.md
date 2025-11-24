@@ -104,11 +104,10 @@ It's like having a really smart assistant that organized all your business info 
 
 
 What I Learned
-✅ How to import and clean data in Power BI
-✅ How to make different types of charts
-✅ How to use filters and make dashboards interactive
-✅ How to pick colors and layouts that make sense
-✅ How to think like a business owner (what questions matter most?)
+How to import and clean data in Power BI
+How to make different types of charts
+How to use filters and make dashboards interactive
+How to pick colors and layouts that make sense How to think like a business owner (what questions matter most?)
 Where I Am in My Learning
 I started learning Power BI just 5 days ago, and I'm pretty proud of what I built! It's not perfect, but it actually works and tells a story.
 Next steps: I'm going to learn DAX better and add more advanced features like custom tooltips!
