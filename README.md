@@ -7,7 +7,9 @@ Questions I Tried to Answer
 When I started this project, I imagined I was helping a shop owner understand their business better. Here are the questions I wanted to answer:
 
 How much money did we make overall? - Answer: 255.54 in total sales
+
 How many people bought stuff? - Answer: 86,667 orders - that's a lot of customers!
+
 What's the average amount each customer spends? - Answer: 118.83M per order
 
 
